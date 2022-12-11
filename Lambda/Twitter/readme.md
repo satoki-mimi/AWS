@@ -1,7 +1,7 @@
 ## 概要
 Twitterの休眠アカウントが削除されるらしいので、お目当てのscreen_nameが削除されたら通知を出したい。
 
-## AWSサービスの構成
+## 構成
 EventBridge → Lambda → SNS & EventBridge
 
 ## 参考
